@@ -1,4 +1,4 @@
-# 
+# Get the ultimate deribit trading bot with new deribit trading bot Utility | trailing-stop + slippage-control. Featuring trailing-stop and slippage-control, it's the best choice
 
 
 
